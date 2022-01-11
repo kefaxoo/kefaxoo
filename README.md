@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm @kefaxoo
+- 👀 I’m interested in programming, photography and creating effects for Instagram.
+- 🌱 I’m currently studying C#, C++. In the near future I plan to study Swift, SQL
+- 🔭 I’m currently on a job search
+- 🏫 I'm studying at MMF, BSU
+- 📫 How to reach me: [Telegram](https://t.me/kefaxoo), [email](mailto:fzzksiniy@icloud.com)
 
 <!--
 **kefaxoo/kefaxoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
