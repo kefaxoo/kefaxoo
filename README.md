@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm @kefaxoo
 - 👀 I’m interested in programming, photography and creating effects for Instagram.
-- 🌱 I’m currently studying C#, C++. In the near future I plan to study Swift, SQL
+- 🌱 I’m currently studying C++, Swift. 
 - 🔭 I’m currently on a job search
 - 🏫 I'm studying at MMF, BSU
 - 📫 How to reach me: [Telegram](https://t.me/kefaxoo), [email](mailto:fzzksiniy@icloud.com)
