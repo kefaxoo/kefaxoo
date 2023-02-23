@@ -10,6 +10,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kefaxoo) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kefaxoo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kefaxoo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kefaxoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kefaxoo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kefaxoo/kefaxoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
