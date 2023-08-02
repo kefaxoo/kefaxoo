@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm @kefaxoo
-- 👀 I’m interested in programming, photography and creating effects for Instagram.
-- 🌱 I’m currently studying C++, Swift. 
-- 🔭 I’m currently on a job search
+- 👀 I’m interested in programming, photography.
+- 🌱 I’m currently studying C++. 
+- 🔭 I work as Junior iOS Developer at BalinaSoft.
 - 🏫 I'm studying at MMF, BSU
 - 📫 How to reach me: [Telegram](https://t.me/kefaxoo), [email](mailto:fzzksiniy@icloud.com)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-orange?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-orange?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=for-the-badge)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kefaxoo) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kefaxoo) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kefaxoo)
 
