@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm @kefaxoo
 - 👀 I’m interested in programming, photography.
-- 🌱 I’m currently studying JavaScript and Python for backend development. 
-- 🔭 I work as Junior iOS Developer at BalinaSoft.
+- 🌱 I’m currently studying Python and SQL for backend development. 
+- 🔭 I work as Senior iOS Developer at Vkusvill.
 - 🏫 I'm studying at MMF, BSU
 - 📫 How to reach me: [Telegram](https://t.me/kefaxoo), [email](mailto:fzzksiniy@icloud.com)
 
